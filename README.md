@@ -10,7 +10,7 @@
 
 ## Demo 畫面截圖
 
-![App Demo](image.png)
+![App Demo](demo.jpg)
 
 ## 啟動平台
 
