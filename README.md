@@ -1,5 +1,7 @@
 # CRISP-DM Linear Regression Streamlit App
 
+👉 **[Live Demo 雲端展示](https://dic7-ml-kfsjn5rummkdckskpm3zjy.streamlit.app/)**
+
 這個應用程式示範了完整的 CRISP-DM (Cross-Industry Standard Process for Data Mining) 流程，並實作一個能自動訓練線性迴歸模型、產生評估指標與呈現視覺化的視覺化專案。
 
 ## 支援特色功能
